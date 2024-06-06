@@ -7,13 +7,22 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 Below you can see the schedule for the upcoming talks.
 
 
-### Schedule
+### Program
 
-| Date                 |Time                 |Speaker                            |Title
-|---------------|---------------|-------------------------|-------------------------------------------------------------------------------------------------------------------|
-|09.07.2024      |16:00 (CEST)   |Dr. Walter Weit                 |TBD
-|12.08.2024      |11:00 (CEST)    |Prof. Florian Mormann    |Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory                        |
+<pre>
+09.07.2024      &nbsp;16:00 (CEST)   &nbsp; **Dr. Walter Weit**          &nbsp; TBD
+</pre>
+
+<pre>
+12.08.2024      &nbsp;11:00 (CEST)   &nbsp; **Prof. Florian Mormann**    &nbsp; Concept neurons in the human medial temporal lobe as semantic
+                                                            building blocks for episodic memory 
+
+</pre>
 
 
 
-_Note: If you want to get notified about upcoming talks, you can sign up for our mailing list by sending an email to yuranny.cabral-calderi(at)ae.mpg.de with the subject "NCClab_Talks list"_
+
+
+--------------------------------
+_Note: If you want to get notified about upcoming talks, you can sign up for our mailing list by sending an email to 
+yuranny.cabral-calderin(at)ae.mpg.de with the subject "NCClab_Talks list"_
