@@ -16,4 +16,4 @@ Below you can see the schedule for the upcoming talks.
 
 
 
-_Note: If you want to get notify about upcoming talks, you can sign-up to our mailing list by sending an email to yuranny.cabral-calderi(at)ae.mpg.de with the topic "NCClab_Taks list"_
+_Note: If you want to get notified about upcoming talks, you can sign up for our mailing list by sending an email to yuranny.cabral-calderi(at)ae.mpg.de with the subject "NCClab_Talks list"_
