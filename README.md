@@ -13,11 +13,11 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 **Upcoming talks**
 
 
-09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Weit](https://walterveit.com/about/)          &nbsp; [What are the adaptive benefits of subjective experience?](https://github.com/NCCLabMPI/NCCLab-Talks/blob/main/NCCLab_Talks_flyer_WalterWeit.pdf)
+09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Weit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience? [flyer](https://github.com/NCCLabMPI/NCCLab-Talks/blob/main/NCCLab_Talks_flyer_WalterWeit.pdf)
 
 
 
-12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Prof. Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; [Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory]()
+12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Prof. Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory. [flyer](https://github.com/NCCLabMPI/NCCLab-Talks/blob/main/NCCLab_Talks_flyer_Florian.pdf)
 
 
 
