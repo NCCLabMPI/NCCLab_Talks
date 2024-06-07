@@ -25,6 +25,12 @@ https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/V
 zoom link: TBA
 </details>
 
+
+
+
+
+
+
 + 12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Prof. Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial 
 temporal lobe as semantic building blocks for episodic memory.
 <details>
