@@ -10,11 +10,11 @@ Below you can see the schedule for the upcoming talks.
 ### Program
 
 <pre>
-09.07.2024      &nbsp;16:00 (CEST)   &nbsp; **Dr. Walter Weit**          &nbsp; TBD
+09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Weit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?
 </pre>
 
 <pre>
-12.08.2024      &nbsp;11:00 (CEST)   &nbsp; **Prof. Florian Mormann**    &nbsp; Concept neurons in the human medial temporal lobe as semantic
+12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Prof. Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic
                                                             building blocks for episodic memory 
 
 </pre>
