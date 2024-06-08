@@ -22,6 +22,7 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617
 
+Venue: online </p>
 zoom link: TBA 
 <br />
 </details>
@@ -31,6 +32,12 @@ zoom link: TBA
 
 <p align="justify"> Abstract: The human medial temporal lobe contains neurons that respond selectively to the semantic contents of a presented stimulus. These "concept cells" may respond to very different pictures of a given person and even to their written and spoken name. Their response latency is far longer than necessary for object recognition, they follow subjective, conscious perception, and they are found in brain regions that are crucial for declarative memory formation. It has thus been hypothesized that they may represent the semantic "building blocks" of episodic memories. 
 In this talk I will present data from single unit recordings in the hippocampus, entorhinal cortex, parahippocampal cortex, and amygdala during paradigms involving object recognition and perception as well as encoding and consolidation of episodic memories in order to characterize the role of concept cells in these cognitive functions.</p>
+
+Venue: Max Planck Institute for Empirical Aesthetics, room 416-419
+
+Grüneburgweg 14
+60322 Frankfurt am Main
+Germany
 
 zoom link: TBA 
 <br />
