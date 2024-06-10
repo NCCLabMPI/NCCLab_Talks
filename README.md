@@ -18,11 +18,11 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 #### 09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Weit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?
 <details>
 
-<p align="justify"> Abstract: The so-called emergence of a science of consciousness in the 1990s has at best been a science of human consciousness. This talk aims to advance a true Darwinian science of consciousness in which its evolutionary origin, function, and phylogenetic diversity are moved from the field’s periphery to its very centre, thus enabling us to integrate consciousness into an evolutionary view of life. Accordingly, this book has two objectives: (i) to argue for the need and possibility of an evolutionary bottom-up approach that addresses the problem of consciousness in terms of the evolutionary origins of a new ecological lifestyle that made consciousness worth having and (ii) to articulate a thesis and beginnings of a theory of the place of consciousness as a complex evolved phenomenon in nature that can help us to answer the question of what it is like to be a bat, an octopus, or a crow.</p>
+<p align="justify"> Abstract: The so-called emergence of a science of consciousness in the 1990s has at best been a science of human consciousness. This talk aims to advance a true Darwinian science of consciousness in which its evolutionary origin, function, and phylogenetic diversity are moved from the field’s periphery to its very centre, thus enabling us to integrate consciousness into an evolutionary view of life. Accordingly, this book has two objectives: (i) to argue for the need and possibility of an evolutionary bottom-up approach that addresses the problem of consciousness in terms of the evolutionary origins of a new ecological lifestyle that made consciousness worth having and (ii) to articulate a thesis and beginnings of a theory of the place of consciousness as a complex evolved phenomenon in nature that can help us to answer the question of what it is like to be a bat, an octopus, or a crow.<br /> 
 
-<p>[book](https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617/)<br />  
+[book link](https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617/)<br />  
  
-Venue: online.
+Venue: online.<br />  
 
 zoom link: TBA.</p>
 <br />
