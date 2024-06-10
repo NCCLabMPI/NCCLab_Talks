@@ -23,7 +23,6 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 [book link](https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617/)<br />  
  
 Venue: online.<br />  
-
 zoom link: TBA.</p>
 <br />
 </details>
@@ -38,7 +37,7 @@ In this talk I will present data from single unit recordings in the hippocampus,
 Grüneburgweg 14<br />  
 60322 Frankfurt am Main<br />  
 Germany.<br />  
-
+<br /> 
 zoom link: TBA.</p>
 <br />
 </details>
