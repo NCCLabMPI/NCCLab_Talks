@@ -16,7 +16,7 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 
 
-#### 09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Weit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?
+#### 09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Veit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?
 [book](https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617/)
 <details>
 
