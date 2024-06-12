@@ -52,7 +52,7 @@ Grüneburgweg 14<br />
 60322 Frankfurt am Main<br />  
 Germany.<br />  
 <br /> 
-zoom link: TBA.</p>
+zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
 <br />
 </details>
 
