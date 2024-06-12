@@ -26,7 +26,7 @@ zoom link: TBA.</p>
 <br />
 </details>
 
-#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. Gemma Roig](https://walterveit.com/about/)          &nbsp; TBA
+#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA</p>
