@@ -26,6 +26,20 @@ zoom link: TBA.</p>
 <br />
 </details>
 
+#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. Gemma Roig](https://walterveit.com/about/)          &nbsp; TBA
+<details>
+
+<p align="justify"> Abstract: TBA</p>
+ 
+<p>Venue: Max Planck Institute for Empirical Aesthetics, room 416-419,<br />  
+Grüneburgweg 14<br />  
+60322 Frankfurt am Main<br />  
+Germany.<br />  
+<br /> 
+zoom link: TBA.</p>
+<br />
+</details>
+
 #### 12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Prof. Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory.
 <details>
 
