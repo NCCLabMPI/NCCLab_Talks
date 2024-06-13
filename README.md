@@ -56,6 +56,16 @@ zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
 <br />
 </details>
 
+#### 10.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Melanie Boly](https://centerforsleepandconsciousness.psychiatry.wisc.edu/people/melanie-boly-md-phd/)         &nbsp; TBA
+<details>
+
+<p align="justify"> Abstract: TBA.</p>
+ 
+<p> Venue: online.<br />  
+zoom link: https://tinyurl.com/NCCLAB-MELANIE-BOLY</p>
+<br />
+</details>
+
 
 
 
