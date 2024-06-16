@@ -56,6 +56,16 @@ zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
 <br />
 </details>
 
+#### 02.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
+<details>
+
+<p align="justify"> Abstract: TBA.</p>
+ 
+<p> Venue: online.<br />  
+zoom link: https://tinyurl.com/NCCLAB-JOHN-DYLAN-HAYNES</p>
+<br />
+</details>
+
 #### 10.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Melanie Boly](https://centerforsleepandconsciousness.psychiatry.wisc.edu/people/melanie-boly-md-phd/)         &nbsp; TBA
 <details>
 
@@ -63,6 +73,16 @@ zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
  
 <p> Venue: online.<br />  
 zoom link: https://tinyurl.com/NCCLAB-MELANIE-BOLY</p>
+<br />
+</details>
+
+#### 07.10.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. Roberto Bottini](http://www.bottinilab.com/)         &nbsp; TBA
+<details>
+
+<p align="justify"> Abstract: TBA.</p>
+ 
+<p> Venue: online.<br />  
+zoom link: https://tinyurl.com/NCCLAB-ROBERTO-BOTTINI</p>
 <br />
 </details>
 
