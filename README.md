@@ -16,7 +16,7 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 
 
-#### 09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Walter Veit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?
+#### 09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Walter Veit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?
 [book](https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617/)
 <details>
 
@@ -27,7 +27,7 @@ zoom link: https://tinyurl.com/NCCLAB-WALTER-VEIT</p>
 <br />
 </details>
 
-#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; TBA
+#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA</p>
@@ -41,7 +41,7 @@ zoom link: https://tinyurl.com/NCCLAB-GEMMA-ROIG</p>
 <br />
 </details>
 
-#### 12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Prof. Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory.
+#### 12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory.
 <details>
 
 <p align="justify"> Abstract: The human medial temporal lobe contains neurons that respond selectively to the semantic contents of a presented stimulus. These "concept cells" may respond to very different pictures of a given person and even to their written and spoken name. Their response latency is far longer than necessary for object recognition, they follow subjective, conscious perception, and they are found in brain regions that are crucial for declarative memory formation. It has thus been hypothesized that they may represent the semantic "building blocks" of episodic memories. 
@@ -56,7 +56,7 @@ zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
 <br />
 </details>
 
-#### 02.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
+#### 02.09.2024      &nbsp;16:00 (CEST)   &nbsp; [John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA.</p>
@@ -66,7 +66,7 @@ zoom link: https://tinyurl.com/NCCLAB-JOHN-DYLAN-HAYNES</p>
 <br />
 </details>
 
-#### 10.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Dr. Melanie Boly](https://centerforsleepandconsciousness.psychiatry.wisc.edu/people/melanie-boly-md-phd/)         &nbsp; TBA
+#### 10.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Melanie Boly](https://centerforsleepandconsciousness.psychiatry.wisc.edu/people/melanie-boly-md-phd/)         &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA.</p>
@@ -76,7 +76,7 @@ zoom link: https://tinyurl.com/NCCLAB-MELANIE-BOLY</p>
 <br />
 </details>
 
-#### 07.10.2024      &nbsp;16:00 (CEST)   &nbsp; [Prof. Roberto Bottini](http://www.bottinilab.com/)         &nbsp; TBA
+#### 07.10.2024      &nbsp;16:00 (CEST)   &nbsp; [Roberto Bottini](http://www.bottinilab.com/)         &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA.</p>
