@@ -56,7 +56,7 @@ zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
 <br />
 </details>
 
-#### 02.09.2024      &nbsp;16:00 (CEST)   &nbsp; [John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
+#### 05.09.2024      &nbsp;15:00 (CEST)   &nbsp; [John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA.</p>
