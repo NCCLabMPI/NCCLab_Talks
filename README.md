@@ -90,5 +90,4 @@ zoom link: https://tinyurl.com/NCCLAB-ROBERTO-BOTTINI</p>
 
 
 --------------------------------
-_Note: If you want to get notified about upcoming talks, you can sign up for our mailing list by sending an email to 
-yuranny.cabral-calderin(at)ae.mpg.de with the subject "NCClab_Talks list"_
+_Note: If you want to get notified about upcoming talks, you can sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfz5JGUUESxaWdqD2EbV_qXbXWTovTboVKIcKLKaKTaG_AQUw/viewform?usp=sf_link) _
