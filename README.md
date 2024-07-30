@@ -14,10 +14,10 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 ### Upcoming talks
 
-#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; TBA
+#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; A Computational Study of Shaping Toddler Vision and Object Semantics though Caregive Talk and Self-Supervised Learning
 <details>
 
-<p align="justify"> Abstract: TBA</p>
+<p align="justify"> Abstract: Infants gradually learn to recognize and categorize objects, a process that is influenced by language. This talk explores how caregivers' naming of objects, even if inconsistent and unclear, can enhance a child's visual understanding. Using a computer model and a synthetic set of images seen by a toddler-like agent during play, we study how matching images and words over time improves category recognition. Our findings show that small changes in how often objects are named can significantly affect learning, highlighting the importance of aligning visual and language inputs. We also discuss how humans learn relationships between objects. Using a bio-inspired neural network model, we simulate visual experiences to see how objects are grouped based on context, like kitchen or bedroom scenes. Our results reveal that higher network layers group objects by context, while lower layers focus on object identity. This dual approach of matching visuals with words and timing helps explain how we develop semantic knowledge. Overall, this talk suggests computational models to explore the role of language and context in shaping visual and semantic learning in early development.</p>
  
 <p>Venue: Max Planck Institute for Empirical Aesthetics, room 416-419,<br />  
 Grüneburgweg 14<br />  
