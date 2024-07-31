@@ -76,7 +76,7 @@ zoom link: https://tinyurl.com/NCCLAB-ROBERTO-BOTTINI</p>
 ---------------------------------------------------------
 Past talks
 
-09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Walter Veit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?  &nbsp; [Video recording]
+09.07.2024      &nbsp;16:00 (CEST)   &nbsp; [Walter Veit](https://walterveit.com/about/)          &nbsp; What are the adaptive benefits of subjective experience?  &nbsp; [Video](https://www.youtube.com/playlist?list=PLmI5q4yiiGhKsOd8S_vvYbL3pIkF25-Gz)
  &nbsp;[book](https://www.routledge.com/A-Philosophy-for-the-Science-of-Animal-Consciousness/Veit/p/book/9781032343617/)
 <details>
 
