@@ -14,20 +14,6 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 ### Upcoming talks
 
-#### 06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; A Computational Study of Shaping Toddler Vision and Object Semantics though Caregive Talk and Self-Supervised Learning
-<details>
-
-<p align="justify"> Abstract: Infants gradually learn to recognize and categorize objects, a process that is influenced by language. This talk explores how caregivers' naming of objects, even if inconsistent and unclear, can enhance a child's visual understanding. Using a computer model and a synthetic set of images seen by a toddler-like agent during play, we study how matching images and words over time improves category recognition. Our findings show that small changes in how often objects are named can significantly affect learning, highlighting the importance of aligning visual and language inputs. We also discuss how humans learn relationships between objects. Using a bio-inspired neural network model, we simulate visual experiences to see how objects are grouped based on context, like kitchen or bedroom scenes. Our results reveal that higher network layers group objects by context, while lower layers focus on object identity. This dual approach of matching visuals with words and timing helps explain how we develop semantic knowledge. Overall, this talk suggests computational models to explore the role of language and context in shaping visual and semantic learning in early development.</p>
- 
-<p>Venue: Max Planck Institute for Empirical Aesthetics, room 416-419,<br />  
-Grüneburgweg 14<br />  
-60322 Frankfurt am Main<br />  
-Germany.<br />  
-<br /> 
-zoom link: https://tinyurl.com/NCCLAB-GEMMA-ROIG</p>
-<br />
-</details>
-
 #### 12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory.
 <details>
 
@@ -81,6 +67,20 @@ Past talks
 <details>
 
 <p align="justify"> Abstract: The so-called emergence of a science of consciousness in the 1990s has at best been a science of human consciousness. This talk aims to advance a true Darwinian science of consciousness in which its evolutionary origin, function, and phylogenetic diversity are moved from the field’s periphery to its very centre, thus enabling us to integrate consciousness into an evolutionary view of life. Accordingly, this book has two objectives: (i) to argue for the need and possibility of an evolutionary bottom-up approach that addresses the problem of consciousness in terms of the evolutionary origins of a new ecological lifestyle that made consciousness worth having and (ii) to articulate a thesis and beginnings of a theory of the place of consciousness as a complex evolved phenomenon in nature that can help us to answer the question of what it is like to be a bat, an octopus, or a crow.</p>
+</details>
+
+06.08.2024      &nbsp;16:00 (CEST)   &nbsp; [Gemma Roig](https://www.cvai.cs.uni-frankfurt.de/team.html)          &nbsp; A Computational Study of Shaping Toddler Vision and Object Semantics though Caregive Talk and Self-Supervised Learning
+<details>
+
+<p align="justify"> Abstract: Infants gradually learn to recognize and categorize objects, a process that is influenced by language. This talk explores how caregivers' naming of objects, even if inconsistent and unclear, can enhance a child's visual understanding. Using a computer model and a synthetic set of images seen by a toddler-like agent during play, we study how matching images and words over time improves category recognition. Our findings show that small changes in how often objects are named can significantly affect learning, highlighting the importance of aligning visual and language inputs. We also discuss how humans learn relationships between objects. Using a bio-inspired neural network model, we simulate visual experiences to see how objects are grouped based on context, like kitchen or bedroom scenes. Our results reveal that higher network layers group objects by context, while lower layers focus on object identity. This dual approach of matching visuals with words and timing helps explain how we develop semantic knowledge. Overall, this talk suggests computational models to explore the role of language and context in shaping visual and semantic learning in early development.</p>
+ 
+<p>Venue: Max Planck Institute for Empirical Aesthetics, room 416-419,<br />  
+Grüneburgweg 14<br />  
+60322 Frankfurt am Main<br />  
+Germany.<br />  
+<br /> 
+zoom link: https://tinyurl.com/NCCLAB-GEMMA-ROIG</p>
+<br />
 </details>
 
 
