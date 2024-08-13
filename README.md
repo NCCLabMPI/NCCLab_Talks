@@ -14,21 +14,6 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 ### Upcoming talks
 
-#### 12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory.
-<details>
-
-<p align="justify"> Abstract: The human medial temporal lobe contains neurons that respond selectively to the semantic contents of a presented stimulus. These "concept cells" may respond to very different pictures of a given person and even to their written and spoken name. Their response latency is far longer than necessary for object recognition, they follow subjective, conscious perception, and they are found in brain regions that are crucial for declarative memory formation. It has thus been hypothesized that they may represent the semantic "building blocks" of episodic memories. 
-In this talk I will present data from single unit recordings in the hippocampus, entorhinal cortex, parahippocampal cortex, and amygdala during paradigms involving object recognition and perception as well as encoding and consolidation of episodic memories in order to characterize the role of concept cells in these cognitive functions.</p>
-
-<p>Venue: Max Planck Institute for Empirical Aesthetics, room 416-419,<br />  
-Grüneburgweg 14<br />  
-60322 Frankfurt am Main<br />  
-Germany.<br />  
-<br /> 
-zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
-<br />
-</details>
-
 #### 05.09.2024      &nbsp;15:00 (CEST)   &nbsp; [John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
 <details>
 
@@ -80,6 +65,21 @@ Grüneburgweg 14<br />
 Germany.<br />  
 <br /> 
 zoom link: https://tinyurl.com/NCCLAB-GEMMA-ROIG</p>
+<br />
+</details>
+
+12.08.2024      &nbsp;11:00 (CEST)   &nbsp; [Florian Mormann](https://www.ukbonn.de/en/epileptology/workgroups/mormann-workgroup-cognitive-und-clinical-neurophysiology/)    &nbsp; Concept neurons in the human medial temporal lobe as semantic building blocks for episodic memory.
+<details>
+
+<p align="justify"> Abstract: The human medial temporal lobe contains neurons that respond selectively to the semantic contents of a presented stimulus. These "concept cells" may respond to very different pictures of a given person and even to their written and spoken name. Their response latency is far longer than necessary for object recognition, they follow subjective, conscious perception, and they are found in brain regions that are crucial for declarative memory formation. It has thus been hypothesized that they may represent the semantic "building blocks" of episodic memories. 
+In this talk I will present data from single unit recordings in the hippocampus, entorhinal cortex, parahippocampal cortex, and amygdala during paradigms involving object recognition and perception as well as encoding and consolidation of episodic memories in order to characterize the role of concept cells in these cognitive functions.</p>
+
+<p>Venue: Max Planck Institute for Empirical Aesthetics, room 416-419,<br />  
+Grüneburgweg 14<br />  
+60322 Frankfurt am Main<br />  
+Germany.<br />  
+<br /> 
+zoom link: https://tinyurl.com/NCCLAB-FLORIAN-MORMANN</p>
 <br />
 </details>
 
