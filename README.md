@@ -14,10 +14,10 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 ### Upcoming talks
 
-#### 05.09.2024      &nbsp;15:00 (CEST)   &nbsp; [John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; TBA
+#### 05.09.2024      &nbsp;15:00 (CEST)   &nbsp; [John-Dylan Haynes](https://sites.google.com/site/hayneslab/people/current/john-dylan-haynes)         &nbsp; What does(n)'t neuroscience tell us about free will?
 <details>
 
-<p align="justify"> Abstract: TBA.</p>
+<p align="justify"> Abstract: When humans choose freely between different alternative actions, their choices are often predictable by prior brain signals. Using functional magnetic resonance imaging we found that classifiers can be used to partially predict the outcome of choices several seconds before a person believes to be making up their mind. This holds not only for simple movement choices, but also for complex cognitive actions. Using shifted classification analyses we found that early choice-predictive information can be dissociated from information related to the previous trial. Furthermore, during the early phase with choice-predictive information the default mode network was still active in the participants' brains. This potentially suggests that the prediction occured while they were not actively thinking about their upcoming choices. An interesting question is whether the onset of the choice-predictive brain signals constitutes a point of no return beyond which participants cannot avoid making a decision. We investigated this using real-time EEG classification of the readiness-potential. We found that people can override choice-predictive brain signals until a very late stage of processing. Taken together, our results suggest that choice-predictive brain signals are present, but that participants can control the outcome of a decision until a very late stage. We will also discuss the implications of these findings for the philosophical problem of free will.</p>
  
 <p> Venue: online.<br />  
 zoom link: https://tinyurl.com/NCCLAB-JOHN-DYLAN-HAYNES</p>
