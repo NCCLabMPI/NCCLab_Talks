@@ -24,16 +24,6 @@ zoom link: https://tinyurl.com/NCCLAB-JOHN-DYLAN-HAYNES</p>
 <br />
 </details>
 
-#### 10.09.2024      &nbsp;16:00 (CEST)   &nbsp; [Melanie Boly](https://centerforsleepandconsciousness.psychiatry.wisc.edu/people/melanie-boly-md-phd/)         &nbsp; Detecting and predicting the recovery of consciousness in unresponsive patients
-<details>
-
-<p align="justify"> Abstract: I will review conceptual and practical issues for the detection of the presence and contents of covert consciousness in patients who cannot communicate after brain damage, and progress in methods available.</p>
- 
-<p> Venue: online.<br />  
-zoom link: https://tinyurl.com/NCCLAB-MELANIE-BOLY</p>
-<br />
-</details>
-
 #### 07.10.2024      &nbsp;16:00 (CEST)   &nbsp; [Roberto Bottini](http://www.bottinilab.com/)         &nbsp; TBA
 <details>
 
@@ -41,6 +31,16 @@ zoom link: https://tinyurl.com/NCCLAB-MELANIE-BOLY</p>
  
 <p> Venue: online.<br />  
 zoom link: https://tinyurl.com/NCCLAB-ROBERTO-BOTTINI</p>
+<br />
+</details>
+
+#### TBA      &nbsp;16:00 (CEST)   &nbsp; [Melanie Boly](https://centerforsleepandconsciousness.psychiatry.wisc.edu/people/melanie-boly-md-phd/)         &nbsp; Detecting and predicting the recovery of consciousness in unresponsive patients
+<details>
+
+<p align="justify"> Abstract: I will review conceptual and practical issues for the detection of the presence and contents of covert consciousness in patients who cannot communicate after brain damage, and progress in methods available.</p>
+ 
+<p> Venue: online.<br />  
+zoom link: https://tinyurl.com/NCCLAB-MELANIE-BOLY</p>
 <br />
 </details>
 
