@@ -14,7 +14,7 @@ The NCClab Talks is a lecture series currently organized by [Yuranny Cabral-Cald
 
 ### Upcoming talks
 
-#### 07.10.2024      &nbsp;16:00 (CEST)   &nbsp; [Roberto Bottini](http://www.bottinilab.com/)         &nbsp; TBA
+#### TBA      &nbsp;16:00 (CEST)   &nbsp; [Roberto Bottini](http://www.bottinilab.com/)         &nbsp; TBA
 <details>
 
 <p align="justify"> Abstract: TBA.</p>
